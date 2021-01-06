@@ -1,16 +1,16 @@
 {
-  "name": "philippheuer/wordpress-heroku",
+  "name": "masrimanas/m2-wordpress",
   "type": "project",
   "license": "MIT",
-  "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
-  "homepage": "https://github.com/PhilippHeuer/wordpress-heroku",
+  "description": "For ",
+  "homepage": "https://github.com/masrimanas/m2wordpress",
   "keywords": [
 	"bedrock", "wordpress", "stack", "composer", "heroku", "wp"
   ],
   "config": {
 	"preferred-install": "dist",
 	"platform":{
-	  "php": "7.0",
+	  "php": "7.4",
 	  "ext-gettext": "1.0"
 	}
   },
