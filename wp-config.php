@@ -26,16 +26,16 @@ define('WP_SITEURL','http://apps.masrimanas.com');
 
  // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'hu5lzs16lnin8i99' );
+define( 'DB_NAME', 'appslist' );
 
 /** MySQL database username */
-define( 'DB_USER', 'yq9ywg7mk3qk45mn' );
+define( 'DB_USER', 'userdbnq' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'yfji2fczs8aqc39i' );
+define( 'DB_PASSWORD', 'Pa55-dbnq' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'ngequiz-fb.c9seeyaopeca.us-east-2.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
